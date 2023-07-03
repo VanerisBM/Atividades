@@ -1,0 +1,19 @@
+        body{
+            
+            background-color: rgba(0, 0, 0, 0.781);
+        }
+        h1{
+            color: aliceblue;
+            font: bold 24pt arial;
+            text-align: center;
+        }
+        .video{
+            text-align: center;
+        }
+        .curso {
+            color: aliceblue;
+            text-align: center;
+        }
+        .voltar{
+            text-align: center;
+        }
